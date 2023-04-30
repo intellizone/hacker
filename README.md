@@ -40,6 +40,7 @@ Additionally, you may choose to set the following optional variables:
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
+google_adsense: [Your Google Adsense pub id]
 ```
 
 ### Stylesheet
